@@ -11,7 +11,7 @@ foreach ($user in $users) {
     $uname = $user.'username'
     $description = $user.'description'
     $pw = $user.'password'
-    $ou = $user.'oupath'
+    $ou = $user.'ou'
     $action = $user.'Action'
 
 
